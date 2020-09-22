@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.ts --exec ts-node",
-    "start":"ts-node src/index.ts"
+    "dev": "nodemon src/index.ts --exec ts-node"
   },
   "author": "Fabricio Palavecino",
   "license": "ISC",
